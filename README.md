@@ -44,6 +44,8 @@ npm
 Python virtual environments
 Project Structure
 task-manager/
+
+
 │
 ├── frontend/
 │   ├── public/
@@ -65,6 +67,9 @@ task-manager/
 │
 ├── .gitignore
 └── README.md
+
+
+
 
 How It Works
 The application uses a React frontend that communicates with a Flask REST API.
